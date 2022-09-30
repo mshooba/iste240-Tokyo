@@ -44,7 +44,7 @@ Narrative is guided through each districts look and feel which is exciting fun a
 ## Choreography
 
 Content is focused on entertainment and exciting information so users and first presented with a striking landing page, and then dumping them straight into
-information overload to reflect the chaotic exciiting nature of Tokyo.
+information overload to reflect the chaotic exciting nature of Tokyo.
 
 1. User is presented with the city
     - shown a bright colorful landing page with minimal information
