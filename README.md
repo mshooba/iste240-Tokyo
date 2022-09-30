@@ -62,23 +62,23 @@ Content is focused on entertainment and exciting information so users are first 
     - footer, inconsequential used for resources
  
 + The landing page will have a completely different layout than the subpages
-    - Subpages will be vertical long scrolly pages studded with images on the left, right and center.
+    - Subpages will be vertical long scrolling pages studded with images alternating from left, right, and center.
 
 
 
 ## Mood
-This website has fun, exciting yet factual information about Tokyo. The content should be written in a straightforward way, but presentation should refelct the eccentric nature of Tokyo.
+This website has fun, exciting yet factual information about Tokyo. The content should be written in a straightforward way, but presentation should reflect the eccentric nature of Tokyo.
 
 Colors should be high contrast, and "neon" like.
 
-Embellishments - The style of Tokyo is sensory overload and over-the-top. Neon like effects should be used on borders, with a dark background.
+Embellishments - The style of Tokyo is sensory overload and over-the-top. Neon like effects should be used on borders, and navigation menus with a dark background.
 
 
 
 ## Typography
 Elements such as navigation and menus can use a monpspace font face, or other sleek looking tech/sci-fi looking font. Factual information should have good readability with a sans-serif font face.
 
-Even graffiti style display fonts could be used for the main title.
+Even graffiti style display font-faces could be used for the main title.
 
 ## Other Design Elements (CSS-Tricks and properties, where on the page and their intended use)
   - IDEAS
