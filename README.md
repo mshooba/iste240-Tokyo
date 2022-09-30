@@ -1,2 +1,2 @@
 # Readme for Tokyo, Japan Website
-## This is a mulkti-page informational website about Tokoy, Japan and it's most famous districts
+### This is a multi-page  website about Tokyo, Japan and it's most famous districts.
