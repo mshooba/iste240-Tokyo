@@ -54,7 +54,8 @@ Content is focused on entertainment and exciting information so users are first 
       - nightlife information
       - history / demographics
 
-## Layout (link to wireframes goes here)
+## Layout 
+[Wireframes](https://www.figma.com/file/A0bReeknCUaUbUNhmL3FJk/TOKYO?node-id=0%3A1)
 + The graphical impact of the landing page is extremely important, and should be striking to the user. Menus and navigation should be sleek and not obstrusive. The title should be large and centered.
 
     - Title has a "Hero Image", main focal point
@@ -80,14 +81,8 @@ Elements such as navigation and menus can use a monpspace font face, or other sl
 
 Even graffiti style display font-faces could be used for the main title.
 
-## Other Design Elements (CSS-Tricks and properties, where on the page and their intended use)
-  - IDEAS
-    - neon text
-       - https://css-tricks.com/how-to-create-neon-text-with-css/
-    - neon animated sign
-       - https://codepen.io/nodws/pen/WNjXbr
-    - glowing navbar
-       - https://codepen.io/zhadjah9559/pen/YzGzbxe
+## Other Design Elements
+
 
 
 
