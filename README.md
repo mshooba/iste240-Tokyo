@@ -82,7 +82,7 @@ Elements such as navigation and menus can use a monpspace font face, or other sl
 Even graffiti style display font-faces could be used for the main title.
 
 ## Other Design Elements
-
+The navigation menu will take advantage of the box-shadow and text-shadow properties in CSS to create a neon effect to reflect the style of tokyo. The sub elements, and links will use the keyframes propertie to create a "flicker" or "pulsating" effect that many neon signs have.
 
 
 
